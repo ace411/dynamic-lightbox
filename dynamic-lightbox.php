@@ -5,7 +5,7 @@
 <html>
 <head>
 	<title>Dynamic lightbox</title>
-	<link rel="stylesheet" type="text/css" href="css/lightbox.css">
+	<link rel="stylesheet" type="text/css" href="lightbox.css">
 </head>
 <body>
     <div id="place"></div>
