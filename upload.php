@@ -6,7 +6,7 @@
 </head>
 <body>
 <h2 align="center">File upload script</h2>
-<form action="confirm_upload.php" method="post" id="upload_form" enctype="multipart/form-data">
+<form action="file-upload.php" method="post" id="upload_form" enctype="multipart/form-data">
     <fieldset>
 		<input type="file" name="files[]" class="upload_img" multiple>
 		<input type="submit" value="Upload image">
